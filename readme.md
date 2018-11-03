@@ -6,7 +6,8 @@
 The Updated FlashCards~
 
 ### App Walk-though
-![flashcards updated](https://user-images.githubusercontent.com/22160959/47948415-462e3a80-df07-11e8-9fc1-a473ed259685.gif)
+![flashcards updated](https://user-images.githubusercontent.com/22160959/47948646-0cf7c980-df0b-11e8-93b9-71e4e8728bb0.gif)
+
 
 
 ## Required
