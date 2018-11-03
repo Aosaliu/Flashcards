@@ -1,20 +1,21 @@
 ## Flashcards
 
+## Lab 2
+
 ### App Description
-The new study guide of the century. Flashcards that saves trees.
+The Updated FlashCards~
 
 ### App Walk-though
-![flashcards](https://user-images.githubusercontent.com/22160959/46911400-6ed69c00-cf28-11e8-8b3b-96393f9e05f9.gif)
+![flashcards updated](https://user-images.githubusercontent.com/22160959/47948415-462e3a80-df07-11e8-9fc1-a473ed259685.gif)
 
 
 ## Required
-- [x] Create New Project in Xcode
-- [x] Add a view for the front side of the flashcard to display the question
-- [x] Add a view for the back side of the flashcard to display the answer
-- [x] Build in logic to show the answer side when the card is tapped
+- [x] User can open the creation screen
+- [x] User can cancel out of the creation screen
+- [x] User can enter a new question and answer in the creation screen to then show it on the flashcard
 - [x] Push code to GitHub
 ## Optional
-- [ ] Toggle the flashcard between the question side and the answer side
-- [ ] Style the question and answer side of the card to better distinguish between the two sides
-- [ ] Add selectable multiple choice answers beneath the card
+- [ ] User gets an error if they try to create a new flashcard with no question or answer
+- [ ] User can edit existing flashcard
+- [ ] User can add multiple choice answers in the creation screen
 
