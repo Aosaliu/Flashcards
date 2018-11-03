@@ -26,6 +26,20 @@ class ViewController: UIViewController {
         Question.isHidden = true
         
     }
+    func updateFlashCard(question: String, answer: String) {
+
+        Question.text = question;
+        Answer.text = answer;
+    }
+    
+
+    override func prepare(for segue: UIStoryboardSegue, sender sensor: (Any)?){
+    
+    let navigationController = segue.destination as! UINavigationController
+    
+    let creationController = navigationController.topViewController as! CreationViewController
+    
+    creationController.flashcardsController = self
     
 }
-
+}
